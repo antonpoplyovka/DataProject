@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="bootstrap-maven-2.0.4.jar">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../DataProject/bootstrap-maven-2.0.4.jar.zip!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+    <jarDirectory url="jar://$PROJECT_DIR$/../DataProject/bootstrap-maven-2.0.4.jar.zip!/" recursive="false" />
+  </library>
+</component>
